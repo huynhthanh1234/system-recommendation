@@ -8,6 +8,7 @@ In this paper, we have researched the Recommendation System that can predict whi
 #  Requirements
 
 This code has been tested with python 3.6.8 in https://colab.research.google.com
+
 Packages:  pandas, numpy,  textblob, nltk, re, scikit-learn and pickle 
 
 #  Dataset
@@ -28,7 +29,6 @@ example original data and pre-processed data:
 You should run this code in https://colab.research.google.com
 
 Firstly, pushing 2 data re_data_train and re_data_test
-and all file .sav
 
 Secondly,  run step by step according to my instructions in the code
 
