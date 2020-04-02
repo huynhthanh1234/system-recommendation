@@ -30,7 +30,7 @@ You should run this code in https://colab.research.google.com
 
 Firstly, pushing 2 data re_data_train and re_data_test as the following:
 
-<img src="image1.PNG">
+<img src="image/image1.PNG">
 
 Secondly,  run step by step according to my instructions in the code 
 
