@@ -28,8 +28,8 @@ example original data and pre-processed data:
 # Run
 You should run this code in https://colab.research.google.com
 
-Firstly, pushing 2 data re_data_train and re_data_test ) as the following
+Firstly, pushing 2 data re_data_train and re_data_test as the following:
 
-Secondly,  run step by step according to my instructions in the code ![](image/image1.PNG
+Secondly,  run step by step according to my instructions in the code ![](image/image1.PNG)
 
 
