@@ -7,9 +7,8 @@ In this paper, we have researched the Recommendation System that can predict whi
 
 #  Requirements
 
-This code has been tested with 
-python 3.6.8 in https://colab.research.google.com
-packages:  pandas, numpy,  textblob, nltk, re, scikit-learn and pickle 
+This code has been tested with python 3.6.8 in https://colab.research.google.com
+Packages:  pandas, numpy,  textblob, nltk, re, scikit-learn and pickle 
 
 #  Dataset
 
