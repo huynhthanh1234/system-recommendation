@@ -2,12 +2,12 @@
 
 Our paper can be found  at 
 
-In this paper, we have researched the Recommendation System that can predict which journal fit with your paper. We use the dataset of authors in this paper 
+In this paper, we have researched the Recommendation System that can predict which journals fit with your paper. We use the dataset of authors in this paper 
 
 
 #  Requirements
 
-This code has been tested with python 3.6.8 in https://colab.research.google.com
+This code was tested with python 3.6.8 in https://colab.research.google.com
 
 Packages:  pandas, numpy,  textblob, nltk, re, scikit-learn and pickle 
 
